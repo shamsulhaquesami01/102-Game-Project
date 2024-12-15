@@ -1,0 +1,5 @@
+hello 1780
+alice 1180
+. 1040
+sami 840
+bob 780
